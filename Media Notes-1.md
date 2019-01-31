@@ -37,3 +37,17 @@ class Person {
 }
 
 ```
+
+{} - VERY IMPORTANT - easy to read NEED TO CLOSE OR ERRORS WILL HAPPEN!
+
+CLASSES ARE THE BUILDING BLOCKS OF A PROGRAM
+
+VAR - can be changed 
+LET - Can't be changed 
+
+: = is a type 
+STRING = Characters
+INT = Hole Number 
+() = Peramiter
+
+CONSTRAINTS - be able to use the app on any screen = pixel chnage 
