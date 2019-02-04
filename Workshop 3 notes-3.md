@@ -30,6 +30,7 @@ Privacy - Location When In Use Usage Description
 Privacy - Location Always and When In Use Usage Description
 {Once you allow the message will NOT show up again}
 
+
 {
 locationManager.requestAlwaysAuthorization()
 
