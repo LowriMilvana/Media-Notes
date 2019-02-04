@@ -2,7 +2,7 @@ What is the location framework called in iOS
 NUMBERS
 
 What are the two numbers that determine location
-
+LONGATUDE AND LANGITUDE
 
 There are two keys you need to add to the info.plist in order to use gps of a device, what are they?
 PRIVACY - LOCATION ALWAYS AND WHEN IN USE USAGE DESCRIPTION +
@@ -15,6 +15,7 @@ How can you simulate location on the simulator?
 PRESS THE LOCATION SIMULATOR ARO THAT IS LOCATION IN THE DEBUG AREA.
 
 How do you create a custom simulator for testing?
+CREATING A GPX FILE AND GETTING LOCATIONS
 
 How can you automatically tell the simulator to use this when you run your app?
 
