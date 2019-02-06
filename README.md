@@ -1,1 +1,1 @@
-# Media-Notes
+# Digital Media Design Workshop notes
