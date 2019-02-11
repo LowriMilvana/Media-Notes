@@ -6,6 +6,7 @@ used to PASS DATA from one view to another and then present a NEW VIEW CONTROLLE
 What is a segue identifier?
 
 How do you create segue from a button?
+SELECT BUTTON FROM LIBRARY/ CONTROL AND DRAG ONTO NEW VIEW FINDER.
 
 How do you create from a view controller without a button?
 
